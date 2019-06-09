@@ -3,13 +3,14 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7a834b471b2a70f46be58ea3025b119f, type: 3}
-  m_Name: RandomPeople
+  m_Name: UMA RandomPeople Setup
   m_EditorClassIdentifier: 
   RandomAvatars:
   - RaceName: HumanFemale
@@ -328,7 +329,7 @@ MonoBehaviour:
       Delete: 0
     - DnaName: breastSize
       MinValue: 0.14414415
-      MaxValue: 0.93693686
+      MaxValue: 0.5019368
       Delete: 0
     - DnaName: eyeSpacing
       MinValue: 0.22916667
@@ -346,6 +347,7 @@ MonoBehaviour:
       MinValue: 0.4375
       MaxValue: 0.6041666
       Delete: 0
+    raceData: {fileID: 11400000, guid: f8fea6f0ee17b3f42a4ae6cfb627bab3, type: 2}
     GuiFoldout: 0
     ColorsFoldout: 0
     WardrobeFoldout: 0
@@ -406,7 +408,6 @@ MonoBehaviour:
     SelectedDNA: 2
     DNAAdd: 
     DNADel: 0
-    raceData: {fileID: 11400000, guid: f8fea6f0ee17b3f42a4ae6cfb627bab3, type: 2}
   - RaceName: HumanMale
     Chance: 1
     SharedColors:
@@ -715,7 +716,7 @@ MonoBehaviour:
       Delete: 0
     - DnaName: upperMuscle
       MinValue: 0
-      MaxValue: 0.9009009
+      MaxValue: 0.7909009
       Delete: 0
     - DnaName: belly
       MinValue: 0
@@ -749,6 +750,7 @@ MonoBehaviour:
       MinValue: 0.3243243
       MaxValue: 0.6216216
       Delete: 0
+    raceData: {fileID: 11400000, guid: 62688b7aa02fbc544916e522fcc239c7, type: 2}
     GuiFoldout: 1
     ColorsFoldout: 1
     WardrobeFoldout: 1
@@ -811,4 +813,3 @@ MonoBehaviour:
     SelectedDNA: 39
     DNAAdd: 
     DNADel: 0
-    raceData: {fileID: 11400000, guid: 62688b7aa02fbc544916e522fcc239c7, type: 2}

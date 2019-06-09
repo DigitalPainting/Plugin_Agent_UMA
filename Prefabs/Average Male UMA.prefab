@@ -59,7 +59,7 @@ Transform:
   m_GameObject: {fileID: 8578303663448284155}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 428.43, y: 0, z: 501}
-  m_LocalScale: {x: 2.8310363, y: 2.8310363, z: 2.8310363}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 638466853206743107}
   m_Father: {fileID: 0}
@@ -334,7 +334,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _movementController: {fileID: 11400000, guid: 162324b491843d949b829867a05adadb,
     type: 2}
-  _Settings: {fileID: 11400000, guid: 0a46d939c9d3c67418767a140c8bef09, type: 2}
+  _Settings: {fileID: 0}
   home: {fileID: 0}
   mouseLookMode: 0
   mouseLookSensitivity: 100

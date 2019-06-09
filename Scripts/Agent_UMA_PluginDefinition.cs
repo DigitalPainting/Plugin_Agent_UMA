@@ -19,7 +19,7 @@ namespace wizardscode.plugin {
 
         public override string GetPluginImplementationClassName()
         {
-            throw new NotImplementedException();
+            return "DynamicCharacterAvatar";
         }
 
         public override string GetProfileTypeName()

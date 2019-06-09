@@ -18,6 +18,9 @@ MonoBehaviour:
     type: 3}
   AddToScene: 1
   agentName: Player Agent
+  defaultAnimationController: {fileID: 9100000, guid: eb280940c811fab4a9e3ddf09381c343,
+    type: 2}
+  speedParameter: Speed
   lookAtName: Look At Target
   cameraAimMode: 0
   cameraFollowOffset: {x: 0, y: 1.8, z: -7}

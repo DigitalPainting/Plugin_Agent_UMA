@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7436298109350267537}
   - component: {fileID: 7436298108664660052}
+  - component: {fileID: 7611567913230918831}
   m_Layer: 0
   m_Name: UMA Random Avatar Generator
   m_TagString: Untagged
@@ -55,3 +56,22 @@ MonoBehaviour:
   RandomOffset: 0.6
   RandomRotation: 0
   NameBase: Agent
+--- !u!95 &7611567913230918831
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7436298109350473603}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

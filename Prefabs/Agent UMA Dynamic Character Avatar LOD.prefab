@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 114399585086637844}
   - component: {fileID: 114169318936026688}
   - component: {fileID: 2042353768987923955}
+  - component: {fileID: 823803164909340638}
   m_Layer: 0
   m_Name: Agent UMA Dynamic Character Avatar LOD
   m_TagString: Untagged
@@ -52,6 +53,8 @@ MonoBehaviour:
   umaRecipe: {fileID: 0}
   umaAdditionalRecipes:
   - {fileID: 11400000, guid: 1f292487d7383514f97c491cadfb0442, type: 2}
+  - {fileID: 11400000, guid: b4240924c651c4f1b840a7e4707660ac, type: 2}
+  - {fileID: 11400000, guid: 920d59ac577b2d9449aa36a4d9e86f10, type: 2}
   umaGenerator: {fileID: 0}
   animationController: {fileID: 0}
   CharacterCreated:
@@ -309,6 +312,25 @@ MonoBehaviour:
   home: {fileID: 0}
   mouseLookMode: 2
   mouseLookSensitivity: 100
+--- !u!95 &823803164909340638
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 153068}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1222181789583113404
 GameObject:
   m_ObjectHideFlags: 0

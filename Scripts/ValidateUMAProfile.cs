@@ -1,4 +1,5 @@
-﻿using wizardscode.validation;
+﻿using System;
+using wizardscode.validation;
 
 namespace wizardscode.plugin
 {
@@ -6,6 +7,6 @@ namespace wizardscode.plugin
     {
         public override ValidationTest<Agent_PluginManager> Instance => new ValidateUMAProfile();
 
-        internal override string ProfileType { get { return "UMA_Agent_Profile"; } }
+        internal override Type ProfileType => typeof(UMA_Agent_Profile);
     }
 }

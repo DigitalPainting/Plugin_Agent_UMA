@@ -17,4 +17,4 @@ MonoBehaviour:
   m_suggestedValue: {fileID: 4486530462697298960, guid: 52c44168ff0346a45a9b20bdf92f9d44,
     type: 3}
   AddToScene: 1
-  spawnPosition: {x: 0, y: 0, z: 0}
+  spawnPosition: {x: 2000, y: 0, z: 2000}

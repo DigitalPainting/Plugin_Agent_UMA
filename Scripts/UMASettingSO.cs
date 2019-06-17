@@ -1,7 +1,4 @@
 ﻿using UnityEngine;
-using UMA;
-using UMA.CharacterSystem;
-using static UMA.CharacterSystem.DynamicCharacterAvatar;
 
 namespace wizardscode.validation
 {

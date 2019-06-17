@@ -17,10 +17,10 @@ MonoBehaviour:
   m_suggestedValue: {fileID: 7436298109350473603, guid: 1e8032c5eb68a8347b25daa2c5fc87bb,
     type: 3}
   AddToScene: 1
+  spawnPosition: {x: 500, y: 0, z: 500}
   agentName: Player Agent
-  defaultAnimationController: {fileID: 9100000, guid: eb280940c811fab4a9e3ddf09381c343,
-    type: 2}
   speedParameter: Speed
+  turnParameter: Direction
   lookAtName: Look At Target
   cameraAimMode: 0
-  cameraFollowOffset: {x: 0, y: 1.8, z: -7}
+  cameraFollowOffset: {x: 0, y: 3, z: -7}

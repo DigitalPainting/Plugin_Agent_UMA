@@ -1,8 +1,5 @@
 ﻿using UMA;
 using UnityEngine;
-using wizardscode.agent;
-using wizardscode.agent.movement;
-using wizardscode.editor;
 
 namespace wizardscode.validation
 {

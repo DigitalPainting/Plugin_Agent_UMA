@@ -9,18 +9,18 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: af678ed64782ac542a411b92ed4d1f45, type: 3}
-  m_Name: UMASettingSO_UMADefault
+  m_Script: {fileID: 11500000, guid: 02c48f64a7d34ed4f96b048f63c5f2be, type: 3}
+  m_Name: ThirdPerson_AgentSettingSO_UMA Plugin Demo
   m_EditorClassIdentifier: 
-  SettingName: Random UMA
+  SettingName: Default Third Party
   Nullable: 0
-  m_suggestedValue: {fileID: 7436298109350473603, guid: 1e8032c5eb68a8347b25daa2c5fc87bb,
+  m_suggestedValue: {fileID: 3499297650445676225, guid: cd001c1b4a9eb334a92011d475a2fd9b,
     type: 3}
   AddToScene: 1
   spawnPosition: {x: 500, y: 0, z: 500}
   agentName: Agent
   speedParameter: Speed
   turnParameter: Direction
-  lookAtName: Look At
+  lookAtName: Look At Target
   cameraAimMode: 0
-  cameraFollowOffset: {x: 0, y: 1.5, z: -5}
+  cameraFollowOffset: {x: 0, y: 5, z: -20}

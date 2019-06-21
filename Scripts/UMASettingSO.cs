@@ -1,21 +1,13 @@
-﻿using UnityEngine;
+﻿using UMA;
+using UnityEngine;
+using wizardscode.agent;
+using wizardscode.agent.movement;
+using wizardscode.editor;
 
 namespace wizardscode.validation
 {
     [CreateAssetMenu(fileName = "UMASettingSO_DESCRIPTIVENAME", menuName = "Wizards Code/Validation/UMA/UMA Setting SO")]
     public class UMASettingSO : AgentSettingSO
     {
-
-        internal override void InstantiatePrefab()
-        {
-            base.InstantiatePrefab();
-            UMARandomAvatar randomAvatar = Instance.GetComponent<UMARandomAvatar>();
-            if (randomAvatar)
-            {
-                randomAvatar.NameBase = agentName;
-                randomAvatar.ParentObject = Instance;
-                PositionOnGround(spawnPosition);
-            }
-        }
     }
 }

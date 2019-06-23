@@ -9,11 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 162ea9e7c627f0d48abb63c8225ec73b, type: 3}
-  m_Name: SunSettingSO_UMADefault
+  m_Script: {fileID: 11500000, guid: 22dea8769ce5aaa439b6174b36a30103, type: 3}
+  m_Name: UMA_Agent_Profile_Default
   m_EditorClassIdentifier: 
-  Description: Default Sun Setting
-  Nullable: 0
-  AddToScene: 1
-  SuggestedValue: {fileID: 108792081150906930, guid: 935ed1b2f6a62904888782218dd03f07,
-    type: 3}
+  UMAPrefab: {fileID: 11400000, guid: 809e2cb194fd368448be757c40f33229, type: 2}
+  agent: {fileID: 11400000, guid: b065fa15be361aa4ab32a0f8d4fa481a, type: 2}

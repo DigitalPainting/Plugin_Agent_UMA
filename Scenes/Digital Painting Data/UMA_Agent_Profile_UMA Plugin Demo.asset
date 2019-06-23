@@ -9,11 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e30612029f71a8e4d8cee30d3b90c5bc, type: 3}
-  m_Name: FlatTerrain_PrefabSettingSO_UMADefault
+  m_Script: {fileID: 11500000, guid: 22dea8769ce5aaa439b6174b36a30103, type: 3}
+  m_Name: UMA_Agent_Profile_UMA Plugin Demo
   m_EditorClassIdentifier: 
-  SettingName: Default flat terrain
-  Nullable: 0
-  m_suggestedValue: {fileID: 8065311485451557558, guid: 664b44494914b6e4aaf5dc9d575e75ae,
-    type: 3}
-  AddToScene: 0
+  UMAPrefab: {fileID: 11400000, guid: 809e2cb194fd368448be757c40f33229, type: 2}
+  agent: {fileID: 11400000, guid: b065fa15be361aa4ab32a0f8d4fa481a, type: 2}

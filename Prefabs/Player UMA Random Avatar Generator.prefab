@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 7436298109350267537}
   - component: {fileID: 1771955503363115766}
   m_Layer: 0
-  m_Name: UMA Random Avatar Generator
+  m_Name: Player UMA Random Avatar Generator
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -54,4 +54,4 @@ MonoBehaviour:
   GridDistance: 1.5
   RandomOffset: 0.6
   RandomRotation: 1
-  NameBase: Agent
+  NameBase: Player Agent

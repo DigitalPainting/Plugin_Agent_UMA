@@ -15,7 +15,7 @@ namespace wizardscode.plugin
         [Expandable(isRequired: true)]
         public PrefabSettingSO UMAPrefab;
         
-        [Tooltip("The definition of an UMA character.")]
+        [Tooltip("The definition of the UMA character to spawn.")]
         [Expandable(isRequired: true)]
         public UMASettingSO agent;
     }

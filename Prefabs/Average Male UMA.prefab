@@ -4858,7 +4858,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _movementController: {fileID: 11400000, guid: 162324b491843d949b829867a05adadb,
     type: 2}
-  _Settings: {fileID: 0}
+  _Settings: {fileID: 11400000, guid: 809e2cb194fd368448be757c40f33229, type: 2}
   home: {fileID: 0}
   mouseLookMode: 0
   mouseLookSensitivity: 100

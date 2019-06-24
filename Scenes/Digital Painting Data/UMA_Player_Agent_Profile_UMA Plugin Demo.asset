@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 22dea8769ce5aaa439b6174b36a30103, type: 3}
-  m_Name: UMA_Agent_Profile
+  m_Name: UMA_Player_Agent_Profile_UMA Plugin Demo
   m_EditorClassIdentifier: 
-  UMAPrefab: {fileID: 0}
-  agent: {fileID: 11400000, guid: b065fa15be361aa4ab32a0f8d4fa481a, type: 2}
+  UMAPrefab: {fileID: 11400000, guid: d7389bc0092a78d4da21e36f11ed3f51, type: 2}
+  agent: {fileID: 11400000, guid: 96afa5ccd350a7a4fbeb2d9bd09d0981, type: 2}

@@ -12,8 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c97578dd625743247ba5b96407687cec, type: 3}
   m_Name: DigitalPaintingManagerProfile_UMA Plugin Demo
   m_EditorClassIdentifier: 
-  CameraSettings: {fileID: 0}
-  TerrainSettings: {fileID: 0}
-  ColorSpaceSettings: {fileID: 0}
-  ScreenSpaceSettings: {fileID: 0}
-  AgentSettings: {fileID: 0}
+  CameraSettings: {fileID: 11400000, guid: c736a7c8de48a0c49aface6d2cd719f6, type: 2}
+  TerrainSettings: {fileID: 11400000, guid: f09c4420f0bf927429f3a924bf30d732, type: 2}
+  ColorSpaceSettings: {fileID: 11400000, guid: fcc470332aa1bb34ca1d2b6a5dbf9514, type: 2}
+  ScreenSpaceSettings: {fileID: 11400000, guid: c4daace560ed2dc408a15ad645c9e954,
+    type: 2}
+  AgentSettings: {fileID: 11400000, guid: bda2021f9cfbda344a17700cf7d78246, type: 2}

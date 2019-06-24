@@ -10,15 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: af678ed64782ac542a411b92ed4d1f45, type: 3}
-  m_Name: UMASettingSO_UMA Plugin Demo
+  m_Name: UMA_NPC_SettingSO_Default
   m_EditorClassIdentifier: 
   SettingName: Random UMA
   Nullable: 0
-  m_suggestedValue: {fileID: 7436298109350473603, guid: 1e8032c5eb68a8347b25daa2c5fc87bb,
+  m_suggestedValue: {fileID: 7436298109350473603, guid: 5628a8d9b9545a34fa5077b13b6e8736,
     type: 3}
   AddToScene: 1
-  spawnPosition: {x: 500, y: 0, z: 500}
-  agentName: Player UMA Agent
+  spawnPosition: {x: 490, y: 0, z: 490}
+  agentName: NPC UMA Agent
   speedParameter: Speed
   turnParameter: Direction
   lookAtName: Look At

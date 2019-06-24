@@ -7,6 +7,11 @@ using wizardscode.plugin;
 namespace wizardscode.plugin {
     public class Agent_UMA_PluginDefinition : AbstractPluginDefinition
     {
+        public override bool MultipleAllowed
+        {
+            get { return true; }
+        }
+
         public override PluginCategory GetCategory()
         {
             return PluginCategory.Agent;

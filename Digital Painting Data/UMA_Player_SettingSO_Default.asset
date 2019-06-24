@@ -14,7 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SettingName: Random UMA
   Nullable: 0
-  m_suggestedValue: {fileID: 153068, guid: 165a16ac9ccf1a94080956c3b8c82000, type: 3}
+  m_suggestedValue: {fileID: 7436298109350473603, guid: 1e8032c5eb68a8347b25daa2c5fc87bb,
+    type: 3}
   AddToScene: 1
   spawnPosition: {x: 500, y: 0, z: 500}
   agentName: Player UMA Agent

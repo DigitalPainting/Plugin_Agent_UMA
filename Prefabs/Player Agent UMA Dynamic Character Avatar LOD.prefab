@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 8263627642941714076}
   - component: {fileID: 6993049648143085261}
   m_Layer: 0
-  m_Name: Agent UMA Dynamic Character Avatar LOD
+  m_Name: Player Agent UMA Dynamic Character Avatar LOD
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -411,7 +411,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4312843426388649782}
   m_Layer: 2
-  m_Name: Look At Target
+  m_Name: Look At
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

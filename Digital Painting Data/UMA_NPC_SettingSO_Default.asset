@@ -17,7 +17,7 @@ MonoBehaviour:
   m_suggestedValue: {fileID: 7436298109350473603, guid: 5628a8d9b9545a34fa5077b13b6e8736,
     type: 3}
   AddToScene: 1
-  spawnPosition: {x: 490, y: 0, z: 490}
+  spawnPosition: {x: 510, y: 0, z: 510}
   agentName: NPC UMA Agent
   speedParameter: Speed
   turnParameter: Direction

@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22dea8769ce5aaa439b6174b36a30103, type: 3}
   m_Name: UMA_Player_Agent_Profile_Default
   m_EditorClassIdentifier: 
-  UMAPrefab: {fileID: 11400000, guid: f095a4b0b28b6b3409435d6f6e20aa8a, type: 2}
+  UMAPrefab: {fileID: 11400000, guid: 3ea4a316878c0fd408ced07607e38566, type: 2}
   agent: {fileID: 11400000, guid: 809e2cb194fd368448be757c40f33229, type: 2}

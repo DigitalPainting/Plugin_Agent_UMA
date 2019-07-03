@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using UnityEngine;
-using wizardscode.editor;
-using wizardscode.validation;
+using WizardsCode.editor;
+using WizardsCode.validation;
 
-namespace wizardscode.plugin
+namespace WizardsCode.plugin
 {
     [CreateAssetMenu(fileName = "UMA_Agent_Profile", menuName = "Wizards Code/Agent/UMA Profile")]
     class UMA_Agent_Profile : AbstractPluginProfile

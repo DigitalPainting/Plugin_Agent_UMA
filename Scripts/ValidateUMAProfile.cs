@@ -1,7 +1,7 @@
 ﻿using System;
-using wizardscode.validation;
+using WizardsCode.validation;
 
-namespace wizardscode.plugin
+namespace WizardsCode.plugin
 {
     public class ValidateUMAProfile : ValidationTest<Agent_PluginManager>
     {

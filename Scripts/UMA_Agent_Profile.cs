@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using UnityEngine;
+﻿using UnityEngine;
 using WizardsCode.editor;
-using WizardsCode.validation;
+using WizardsCode.Validation;
 
-namespace WizardsCode.plugin
+namespace WizardsCode.Plugin
 {
     [CreateAssetMenu(fileName = "UMA_Agent_Profile", menuName = "Wizards Code/Agent/UMA Profile")]
     class UMA_Agent_Profile : AbstractPluginProfile

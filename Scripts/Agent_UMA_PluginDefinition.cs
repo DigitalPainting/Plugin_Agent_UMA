@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using WizardsCode.plugin;
 
-namespace WizardsCode.plugin {
+namespace WizardsCode.Plugin {
     public class Agent_UMA_PluginDefinition : AbstractPluginDefinition
     {
         public override bool MultipleAllowed

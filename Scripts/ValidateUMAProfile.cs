@@ -1,7 +1,7 @@
 ﻿using System;
-using WizardsCode.validation;
+using WizardsCode.Validation;
 
-namespace WizardsCode.plugin
+namespace WizardsCode.Plugin
 {
     public class ValidateUMAProfile : ValidationTest<Agent_PluginManager>
     {

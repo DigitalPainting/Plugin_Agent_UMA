@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-using WizardsCode.editor;
+using WizardsCode.Editor;
 using WizardsCode.Validation;
 
 namespace WizardsCode.Plugin

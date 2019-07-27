@@ -1,10 +1,7 @@
 ﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using WizardsCode.plugin;
 
-namespace WizardsCode.plugin {
+namespace WizardsCode.Plugin
+{
     public class Agent_UMA_PluginDefinition : AbstractPluginDefinition
     {
         public override bool MultipleAllowed
@@ -27,9 +24,9 @@ namespace WizardsCode.plugin {
             return "DynamicCharacterAvatar";
         }
 
-        public override string GetProfileTypeName()
+        public override Type GetProfileType()
         {
-            return "UMA_Agent_Profile";
+            return typeof(UMA_Agent_Profile);
         }
 
         public override string GetReadableName()

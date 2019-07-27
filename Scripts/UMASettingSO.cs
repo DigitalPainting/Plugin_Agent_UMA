@@ -1,5 +1,4 @@
-﻿using UMA;
-using UnityEngine;
+﻿using UnityEngine;
 
 namespace WizardsCode.Validation
 {

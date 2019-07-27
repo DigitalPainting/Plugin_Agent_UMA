@@ -1,7 +1,6 @@
 ﻿using System;
 
-namespace WizardsCode.Plugin
-{
+namespace WizardsCode.Plugin {
     public class Agent_UMA_PluginDefinition : AbstractPluginDefinition
     {
         public override bool MultipleAllowed
